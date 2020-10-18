@@ -8,9 +8,9 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
+1. Student 
+1. Caramel IT Services
+1. I'm a Sophomore at Kalinga Institute of Industrial Technology, Bhubaneshwar. Currently my concentration is Computer Science and I'm passionate about learning new stuff! 👨‍💻 I started coding in 2020 and after spending countless hours researching about different domains and fields in Computer Science I fell in love with ReactJS and Machine Learning. ❤️ I want to devote as much time as I can to coding and want to grow with this progressive community.
 1. Hobbies or fun facts
 
 Write it in first (I) or third (Your Name Here) person.
@@ -21,6 +21,6 @@ Write it in first (I) or third (Your Name Here) person.
 
 Grace Hopper Celebration Attendee
 
-## Recognition
+//## Recognition
 
-- 2020 Awesome Woman in Technology Award
+//- 2020 Awesome Woman in Technology Award
